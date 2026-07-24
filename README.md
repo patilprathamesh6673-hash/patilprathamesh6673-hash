@@ -8,9 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=patilprathamesh6673-hash&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/patilprathamesh6673-hash?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -66,9 +65,7 @@
 # 💻 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode&perline=7"/>
-
 </p>
 
 ---
@@ -77,9 +74,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=patilprathamesh6673-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilprathamesh6673-hash&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -88,9 +85,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=patilprathamesh6673-hash&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -98,9 +93,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=patilprathamesh6673-hash&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -108,16 +101,14 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=patilprathamesh6673-hash&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- 🚀 Building Scalable Web Applications
+- 🚀 Building Modern Web Applications
 - 🤖 Artificial Intelligence & Machine Learning
 - ⚛️ React.js Development
 - 💻 MERN Stack Development
@@ -128,15 +119,15 @@
 # 📈 Coding Journey
 
 ```text
-Frontend Development      ███████████████████░   90%
+Frontend Development      ███████████████████░  90%
 
-React.js                  █████████████████░░░   85%
+React.js                  █████████████████░░░  85%
 
-Java                      ████████████████░░░░   80%
+Java                      ████████████████░░░░  80%
 
-Python                    ██████████████░░░░░░   75%
+Python                    ██████████████░░░░░░  75%
 
-Machine Learning          ████████████░░░░░░░   70%
+Machine Learning          ████████████░░░░░░░  70%
 ```
 
 ---
@@ -144,26 +135,16 @@ Machine Learning          ████████████░░░░░░
 # 🌟 Featured Projects
 
 ### 🌐 Portfolio Website
-A modern and responsive portfolio website built with React.js and Tailwind CSS.
+A modern and responsive portfolio website built using React.js and Tailwind CSS.
 
 ### 📚 Learn Java App
-Android application designed to help beginners learn Java programming with notes and quizzes.
+Android application for learning Java programming with quizzes and notes.
 
 ### 💰 YouBook
-Business Management and Digital Ledger application.
+Business management and digital ledger application.
 
 ### 🤖 AI & Machine Learning Projects
-Projects focused on AI Integration, Machine Learning, and intelligent web applications.
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
+Projects focused on AI Integration and Machine Learning.
 
 ---
 
@@ -192,23 +173,15 @@ Projects focused on AI Integration, Machine Learning, and intelligent web applic
 <h2 align="center">⚡ Fun Fact</h2>
 
 <p align="center">
-I love building real-world applications using React, AI, Machine Learning, and modern web technologies.
+I enjoy building real-world applications using React, AI, Machine Learning, and modern web technologies.
 </p>
 
 ---
 
-<h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
+<h2 align="center">⭐ Thanks for Visiting My Profile! ⭐</h2>
 
 <p align="center">
 If you like my work, consider giving a ⭐ to my repositories.
 </p>
-
-
-
-
-<h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
-
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories.
-</p>
+````
 
