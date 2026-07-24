@@ -1,5 +1,5 @@
 
-🚀 About Me<br>🎓 B.Tech Artificial Intelligence & Machine Lerning<br><br>📍 Ashokrao Mane Group of Institutions , Vathar<br><br>💻 Passionate about designing web page and solving real-world problems.<br><br>🌱 Currently Learning<br>Machine Learning<br>AI Integration<br>Frontend Development<br>💡 Interests<br>🌐 Full Stack Development<br>🤖 Artificial Intelligence<br>⚙️ Frontend Engineering<br>🔐 Cyber Security<br>🌍 Open Source<br>💬 Ask Me About<br>Java • Python • React • Node.js • MySQL • MongoDB
+🚀 About Me<br>🎓 B.Tech Artificial Intelligence & Machine Lerning<br><br>📍 Ashokrao Mane Group of Institutions , Vathar<br><br>💻 Passionate about designing web page and solving real-world problems.<br><br>🌱 <br><br> Currently Learning<br>Machine Learning<br>AI Integration<br>Frontend Development<br>💡 Interests<br>🌐 Full Stack Development<br>🤖 Artificial Intelligence<br>⚙️ Frontend Engineering<br>🔐 Cyber Security<br>🌍 Open Source<br>💬 Ask Me About<br>Java • Python • React • Node.js • MySQL • MongoDB
 
 
 ## 🌐 Socials:
