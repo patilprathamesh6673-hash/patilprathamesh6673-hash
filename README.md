@@ -52,12 +52,8 @@
 - Python
 - JavaScript
 - React.js
-- Node.js
-- Express.js
-- MongoDB
 - MySQL
 - HTML5
-- CSS3
 - Tailwind CSS
 
 ---
