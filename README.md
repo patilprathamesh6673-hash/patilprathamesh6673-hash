@@ -4,7 +4,7 @@
 <h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+Developer;Java+%7C+Python+%7C+Node.js;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%7C+Python+%7C;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 <p align="center">
