@@ -4,12 +4,12 @@
 <h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%7C+Python+%7C;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;React+Developer;Java+%7C+Python+%7C+Node.js;Always+Learning+New+Things!" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patilprathamesh6673-hash&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/patilprathamesh6673-hash?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=patilprathamesh6673-hash&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/patilprathamesh6673-hash?style=for-the-badge&logo=github"/>
 </p>
 
 ---
@@ -31,6 +31,7 @@
 - 🤖 Machine Learning
 - 🧠 AI Integration
 - 🎨 Frontend Development
+- ⚛️ React.js
 - 🚀 Modern Web Technologies
 
 ---
@@ -50,8 +51,13 @@
 - Java
 - Python
 - JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 - MySQL
 - HTML5
+- CSS3
 - Tailwind CSS
 
 ---
@@ -59,7 +65,9 @@
 # 💻 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode&perline=7"/>
+
 </p>
 
 ---
@@ -79,7 +87,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilprathamesh6673-hash&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -87,15 +97,19 @@
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=patilprathamesh6673-hash&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=patilprathamesh6673-hash&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+<img src="https://raw.githubusercontent.com/patilprathamesh6673-hash/patilprathamesh6673-hash/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
 </p>
 
 ---
@@ -129,7 +143,7 @@ Machine Learning          ████████████░░░░░░
 # 🌟 Featured Projects
 
 ### 🌐 Portfolio Website
-A modern and responsive portfolio website built using React.js and Tailwind CSS.
+A modern and responsive portfolio website built using **React.js** and **Tailwind CSS**.
 
 ### 📚 Learn Java App
 Android application for learning Java programming with quizzes and notes.
@@ -178,4 +192,3 @@ I enjoy building real-world applications using React, AI, Machine Learning, and 
 If you like my work, consider giving a ⭐ to my repositories.
 </p>
 ````
-
