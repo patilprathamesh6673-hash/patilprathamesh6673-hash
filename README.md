@@ -1,3 +1,4 @@
+````markdown
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
 
 <h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student | Full Stack Developer</h3>
@@ -22,7 +23,7 @@
 
 💻 Passionate about designing modern web applications and solving real-world problems.
 
-🌱 Constantly learning new technologies to become a better developer.
+🌱 Constantly learning new technologies and improving my development skills.
 
 ---
 
@@ -32,7 +33,7 @@
 - 🧠 AI Integration
 - 🎨 Frontend Development
 - ⚛️ React.js
-- 🚀 Modern Web Development
+- 🚀 Modern Web Technologies
 
 ---
 
@@ -56,8 +57,8 @@
 - Express.js
 - MongoDB
 - MySQL
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Tailwind CSS
 
 ---
@@ -66,7 +67,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vscode&perline=7"/>
 
 </p>
 
@@ -116,7 +117,7 @@
 
 # 🎯 Current Focus
 
-- 🚀 Building Modern Web Applications
+- 🚀 Building Scalable Web Applications
 - 🤖 Artificial Intelligence & Machine Learning
 - ⚛️ React.js Development
 - 💻 MERN Stack Development
@@ -127,15 +128,15 @@
 # 📈 Coding Journey
 
 ```text
-Frontend Development      ███████████████████░  90%
+Frontend Development      ███████████████████░   90%
 
-React.js                  █████████████████░░░  85%
+React.js                  █████████████████░░░   85%
 
-Java                      ████████████████░░░░  80%
+Java                      ████████████████░░░░   80%
 
-Python                    ██████████████░░░░░░  75%
+Python                    ██████████████░░░░░░   75%
 
-Machine Learning          ████████████░░░░░░░  70%
+Machine Learning          ████████████░░░░░░░   70%
 ```
 
 ---
@@ -143,16 +144,16 @@ Machine Learning          ████████████░░░░░░
 # 🌟 Featured Projects
 
 ### 🌐 Portfolio Website
-Responsive personal portfolio built with **React.js** and **Tailwind CSS**.
+A modern and responsive portfolio website built with React.js and Tailwind CSS.
 
 ### 📚 Learn Java App
-Android application for learning Java programming with quizzes and notes.
+Android application designed to help beginners learn Java programming with notes and quizzes.
 
 ### 💰 YouBook
-Business management and digital ledger Android application.
+Business Management and Digital Ledger application.
 
 ### 🤖 AI & Machine Learning Projects
-Projects focused on AI integration and Machine Learning.
+Projects focused on AI Integration, Machine Learning, and intelligent web applications.
 
 ---
 
@@ -160,7 +161,7 @@ Projects focused on AI integration and Machine Learning.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -174,11 +175,7 @@ Projects focused on AI integration and Machine Learning.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:patilprathamesh6673@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -195,7 +192,7 @@ Projects focused on AI integration and Machine Learning.
 <h2 align="center">⚡ Fun Fact</h2>
 
 <p align="center">
-I enjoy turning ideas into real-world applications using AI, React, and modern web technologies.
+I love building real-world applications using React, AI, Machine Learning, and modern web technologies.
 </p>
 
 ---
@@ -203,5 +200,16 @@ I enjoy turning ideas into real-world applications using AI, React, and modern w
 <h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
 
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and following me on GitHub!
+If you like my work, consider giving a ⭐ to my repositories.
 </p>
+````
+
+
+---
+
+<h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
+````
