@@ -31,7 +31,6 @@
 - 🤖 Machine Learning
 - 🧠 AI Integration
 - 🎨 Frontend Development
-- ⚛️ React.js
 - 🚀 Modern Web Technologies
 
 ---
@@ -51,7 +50,6 @@
 - Java
 - Python
 - JavaScript
-- React.js
 - MySQL
 - HTML5
 - Tailwind CSS
