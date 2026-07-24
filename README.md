@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
 
 <h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student | Full Stack Developer</h3>
@@ -202,14 +202,13 @@ I love building real-world applications using React, AI, Machine Learning, and m
 <p align="center">
 If you like my work, consider giving a ⭐ to my repositories.
 </p>
-````
 
 
----
+
 
 <h2 align="center">⭐ Thanks for visiting my profile! ⭐</h2>
 
 <p align="center">
 If you like my work, consider giving a ⭐ to my repositories.
 </p>
-````
+
