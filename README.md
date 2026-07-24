@@ -1,18 +1,184 @@
+<h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
+<h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student | Full Stack Developer</h3>
 
-🚀 About Me<br>🎓 B.Tech Artificial Intelligence & Machine Lerning<br><br>📍 Ashokrao Mane Group of Institutions , Vathar<br><br>💻 Passionate about designing web page and solving real-world problems.<br><br>🌱 Currently Learning<br>Machine Learning<br>AI Integration<br>Frontend Development<br><br><br>💡 Interests<br>🌐 Full Stack Development<br>🤖 Artificial Intelligence<br>⚙️ Frontend Engineering<br>🔐 Cyber Security<br>🌍 Open Source<br>💬 Ask Me About<br>Java • Python • React • Node.js • MySQL • MongoDB
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-patil-881522386?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilprathamesh6673@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=patilprathamesh6673-hash  &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=patilprathamesh6673-hash  &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=patilprathamesh6673-hash  &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Student;React+%7C+Node.js+%7C+Java+%7C+Python;Always+Learning+Something+New!" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=patilprathamesh6673-hash  &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 **B.Tech Artificial Intelligence & Machine Learning**
+
+📍 **Ashokrao Mane Group of Institutions, Vathar**
+
+💻 Passionate about designing modern web applications and solving real-world problems.
+
+🌱 Currently learning and improving my skills every day.
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Machine Learning
+- 🧠 AI Integration
+- 🎨 Frontend Development
+- ⚛️ React.js
+- 🚀 Modern Web Technologies
+
+---
+
+## 💡 Interests
+
+- 🌐 Full Stack Development
+- 🤖 Artificial Intelligence
+- ⚙️ Frontend Engineering
+- 🔐 Cyber Security
+- 🌍 Open Source
+
+---
+
+## 💬 Ask Me About
+
+**Java • Python • React • Node.js • MySQL • MongoDB**
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,react,nodejs,js,html,css,mysql,mongodb,git,github,vscode&perline=6"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building Modern Web Applications
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚛️ React.js Development
+- 💻 Full Stack Development
+- 🌍 Open Source Contributions
+
+---
+
+# 📈 Coding Journey
+
+```text
+Frontend Development     ███████████████████░   90%
+
+React.js                 █████████████████░░░   85%
+
+Java                     ████████████████░░░░   80%
+
+Python                   ██████████████░░░░░░   75%
+
+Machine Learning         ████████████░░░░░░░   70%
+```
+
+---
+
+# 🌟 Featured Projects
+
+### 🚀 Portfolio Website
+Modern responsive portfolio website built using React.js and Tailwind CSS.
+
+### 📚 Learn Java App
+Educational Android application for learning Java concepts.
+
+### 💰 YouBook
+Digital Ledger & Business Management Application.
+
+### 🤖 AI Projects
+Machine Learning and AI Integration based applications.
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote
+
+> **"Every great application starts with one line of code. Keep learning, keep building, and never stop improving."**
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
