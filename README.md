@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi 👋, I'm Prathamesh Patil</h1>
 
 <h3 align="center">B.Tech Artificial Intelligence & Machine Learning Student • Full Stack Developer</h3>
